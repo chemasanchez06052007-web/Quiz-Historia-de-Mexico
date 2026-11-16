@@ -7,9 +7,9 @@ El jugador escribe su nombre y responde 5 preguntas elegidas al azar a partir de
 ## Captura de pantalla
 ![captura del juego funcionando](https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/0843edaa831b9e83d2293016363029fca748dabd/ejecucion%20de%20p.png)
 ![Captura del juego funcionando](https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/20a6a8b5b23b5ee90460dadf98d8d4d65174041a/correcto.png)
-![image alt]( Aquí escriben el permalink de la imagen )
-![image alt]( Aquí escriben el permalink de la imagen )
-![image alt]( Aquí escriben el permalink de la imagen )
+![Captura del juego funcionando](https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/a64457b7354799e8c0000367dc3cbc5141047496/error.png)
+![Captura del juego funcionando]()
+![Captura del juego funcionando]()
 
 https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/20a6a8b5b23b5ee90460dadf98d8d4d65174041a/correcto.png
 ## Instrucciones para ejecutar el programa
