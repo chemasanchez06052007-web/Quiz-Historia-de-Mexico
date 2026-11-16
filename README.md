@@ -5,8 +5,13 @@ Juego de preguntas de opción múltiple sobre la **Independencia** y la **Revolu
 El jugador escribe su nombre y responde 5 preguntas elegidas al azar a partir de un archivo CSV. Empieza con 3 vidas: cada respuesta correcta suma 10 puntos y cada error resta una vida. El juego termina al contestar todas las preguntas o al quedarse sin vidas, y entonces se muestra una pantalla de resultados con el puntaje final.
 
 ## Captura de pantalla
-![Captura del juego funcionando](captura_juego.png)
+![captura del juego funcionando]()
+![Captura del juego funcionando](https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/20a6a8b5b23b5ee90460dadf98d8d4d65174041a/correcto.png)
+![image alt]( Aquí escriben el permalink de la imagen )
+![image alt]( Aquí escriben el permalink de la imagen )
+![image alt]( Aquí escriben el permalink de la imagen )
 
+https://github.com/chemasanchez06052007-web/Quiz-Historia-de-Mexico/blob/20a6a8b5b23b5ee90460dadf98d8d4d65174041a/correcto.png
 ## Instrucciones para ejecutar el programa
 
 ### Requisitos
